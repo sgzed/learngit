@@ -4,7 +4,7 @@ using namespace std;
 
 void fun1()
 {
-	
+	//this is for fork software
 }
 
 int main()
