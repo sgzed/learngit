@@ -5,7 +5,6 @@ using namespace std;
 void fun1()
 {
 	//this is for fork software
-	fflush
 }
 
 int main()
